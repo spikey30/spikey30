@@ -4,7 +4,7 @@
   <li>👯 I’m looking to collaborate on: Anything web based</li>
   <li>🤝 I’m looking for help with: Learning rust and devops</li>
   <li>🌱 I’m currently learning: Rust, serverless, Aws, lambda</li>
-  <li>❔Ask me about: Php, web dev, Micro controllers</li>
+  <li>❔ Ask me about: Php, web dev, Micro controllers</li>
 </ul>
 
 
