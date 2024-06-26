@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>     Rust, php, Serverless apps<br>👯 I’m looking to collaborate on:<br>      Anything web based <br>🤝 I’m looking for help with:<br>      Learning rust and devops <br>🌱 I’m currently learning:<br>      Rust, serverless, Aws, lambda <br>💬 Ask me about<br>      Php, web dev 
+<ul>
+  <li>🔭 I’m currently working on: Rust, php, Serverless apps</li>
+  <li>👯 I’m looking to collaborate on: Anything web based</li>
+  <li>🤝 I’m looking for help with: Learning rust and devops</li>
+  <li>🌱 I’m currently learning: Rust, serverless, Aws, lambda</li>
+  <li> Ask me about:  Php, web dev</li>
+</ul>
 
 
 ## 🌐 Socials:
